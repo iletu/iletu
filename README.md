@@ -1,7 +1,7 @@
 # Hi, I'm Ilenia! 👋
 
-I'm an Application Developer in Training from Germany.
+I'm a Full-stack Developer in Training.
 
-💻 Currently learning software development  
-📚 Building projects and improving my skills every day  
-🚀 Welcome to my GitHub!
+💻 Currently learning HTML, CSS & JavaScript  
+🚀 Building projects and improving my skills every day  
+Welcome to my GitHub!
