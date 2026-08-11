@@ -6,6 +6,8 @@ I'm a Full-stack Developer in Training.
 🚀 Building projects and improving my skills every day  
 
 
+
+<h3> Tech Stack </h3>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
