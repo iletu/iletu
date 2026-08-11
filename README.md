@@ -7,7 +7,6 @@ I'm a Full-stack Developer in Training.
 
 </br>
 </br>
-</br>
 
 
 <h2 data-importer="text" align="left">Tech Stack</h2>
