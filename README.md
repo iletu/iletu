@@ -5,9 +5,15 @@ I'm a Full-stack Developer in Training.
 💻 Currently learning HTML, CSS & JavaScript  
 🚀 Building projects and improving my skills every day  
 
+</br>
+</br>
+</br>
 
 
-<h3> Tech Stack </h3>
+<h2 data-importer="text" align="left">Tech Stack</h2>
+
+###
+
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
