@@ -24,7 +24,7 @@ I'm a Full-stack Developer in Training.
 
 ###
 
-<h2 data-importer="text" align="left">Tool</h2>
+<h2 data-importer="text" align="left">Tools</h2>
 
 ###
 
@@ -34,6 +34,8 @@ I'm a Full-stack Developer in Training.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
 </div>
 
 ###
